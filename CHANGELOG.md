@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.4.0
+
+- Updated Grid initialization to have better error messages
+- URLs updated to point to the new repository
+- Better documentation
+
 ## 0.3.1
 
 Enabled weights for BiAStarFinder

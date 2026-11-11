@@ -60,5 +60,8 @@ docs/_build/
 # PyBuilder
 target/
 
+# Scenario viewer HTML output
+examples/output/
+
 # ipython notebook
 .ipynb_checkpoints
